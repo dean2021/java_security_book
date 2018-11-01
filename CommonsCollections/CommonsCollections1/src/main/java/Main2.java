@@ -17,6 +17,11 @@ public class Main2 {
     public static void main(String[] args) throws IOException, ClassNotFoundException, NoSuchMethodException, SecurityException, InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException {
 
 
+        /**
+         *
+         * 往上比较普遍反序列化，调用checkSetValue，触发transform
+         *
+         */
 
         Transformer[] transformers = new Transformer[]{
                 new ConstantTransformer(Runtime.class),
