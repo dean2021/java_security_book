@@ -6,7 +6,7 @@
 
 ### 注意
 
-只有jdk 1.6 有sun.reflect.annotation.AnnotationInvocationHandler类，推荐用jenv管理java版本
+只有jdk 1.6、1.7 有sun.reflect.annotation.AnnotationInvocationHandler类，推荐用jenv管理java版本
 
 ### 参考文章 
 
