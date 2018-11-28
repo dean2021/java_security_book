@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ysoserial-master-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Tools/ysoserial-master-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Tools/ysoserial-master-SNAPSHOT.jar!/" />
+    </SOURCES>
+  </library>
+</component>

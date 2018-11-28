@@ -1,0 +1,65 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.struts:struts2-core:2.5.17">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.5.17/struts2-core-2.5.17.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.5.17/struts2-core-2.5.17-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.5.17/struts2-core-2.5.17-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../struts/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/../../../struts/apps/rest-showcase/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/apps/rest-showcase/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/apps/showcase/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/apps/showcase/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/bundles/admin/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/bundles/demo/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/core/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/async/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/async/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/bean-validation/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/bean-validation/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/cdi/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/cdi/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/config-browser/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/convention/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/convention/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/dwr/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/embeddedjsp/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/embeddedjsp/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/gxp/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/jasperreports/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/jasperreports/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/javatemplates/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/javatemplates/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/jfreechart/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/jfreechart/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/json/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/json/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/junit/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/junit/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/osgi/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/osgi/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/oval/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/oval/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/pell-multipart/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/plexus/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/portlet-tiles/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/portlet/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/portlet/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/rest/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/rest/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/sitegraph/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/sitegraph/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/sitemesh/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/spring/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/spring/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/testng/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/testng/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/tiles/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../struts/plugins/tiles/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

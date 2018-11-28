@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="s2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="struts2-archetype-starter.war">
+      <element id="artifact" artifact-name="s2:war exploded" />
+    </root>
+  </artifact>
+</component>

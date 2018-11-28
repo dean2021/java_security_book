@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.struts:struts2-core:2.0.8">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.0.8/struts2-core-2.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.0.8/struts2-core-2.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.0.8/struts2-core-2.0.8-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/apps/blank/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/apps/blank/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/apps/mailreader/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/apps/portlet/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/apps/showcase/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/core/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/core/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/codebehind/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/codebehind/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/config-browser/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/jasperreports/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/jfreechart/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/jfreechart/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/jsf/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/pell-multipart/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/plexus/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/sitegraph/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/sitegraph/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/sitemesh/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/spring/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/spring/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/struts1/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/struts1/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/struts2-STRUTS_2_0_8.zip!/struts2-STRUTS_2_0_8/plugins/tiles/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

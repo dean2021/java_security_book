@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app id="starter" version="2.4"
+         xmlns="http://java.sun.com/xml/ns/j2ee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+
+	<display-name>Struts 2 - Maven Archetype - Starter</display-name>
+
+
+
+
+    <filter>
+        <!--过滤器名 -->
+        <filter-name>struts2</filter-name>
+        <!--  配置Struts 2.3.16的核心Filter的实现类  -->
+        <!--<filter-class>org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter</filter-class>-->
+        <!--  配置Struts 2.5.14的核心Filter的实现类  -->
+        <filter-class>org.apache.struts2.dispatcher.filter.StrutsPrepareAndExecuteFilter</filter-class>
+    </filter>
+    <!--  让Struts 2的核心Filter拦截所有请求  -->
+    <filter-mapping>
+        <!--过滤器名 -->
+        <filter-name>struts2</filter-name>
+        <!-- 匹配所有请求 -->
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+
+
+
+
+    <!-- Welcome file lists -->
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+        <welcome-file>default.jsp</welcome-file>
+        <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
+
+</web-app>
