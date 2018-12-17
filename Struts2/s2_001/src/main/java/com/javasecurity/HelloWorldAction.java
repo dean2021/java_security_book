@@ -28,14 +28,10 @@ import com.opensymphony.xwork2.conversion.annotations.TypeConversion;
 public class HelloWorldAction extends ActionSupport {
 
 
-    private String name;
-
-    public void setName(String name) { this.name = name; }
-    public String getName() { return this.name; }
-
     public String execute() throws Exception {
 
-        // 强制触发报错，重定向到index.jsp
-        return ERROR;
+
+        // 目的是为了跳回/WEB-INF/jsp/index.jsp
+        return SUCCESS;
     }
 }

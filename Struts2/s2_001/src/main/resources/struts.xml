@@ -9,7 +9,7 @@
 
 
     <!-- <constant name="struts.enable.DynamicMethodInvocation" value="true" /> -->
-    <constant name="struts.devMode" value="false"/>
+    <constant name="struts.devMode" value="true"/>
 
 
     <!-- Add packages here -->
@@ -19,8 +19,7 @@
         </action>
 
         <action name="helloWorld" class="com.javasecurity.HelloWorldAction">
-            <result name="success">/WEB-INF/jsp/helloWorld.jsp</result>
-            <result name="error">/WEB-INF/jsp/index.jsp</result>
+            <result name="success">/WEB-INF/jsp/index.jsp</result>
         </action>
 
     </package>
