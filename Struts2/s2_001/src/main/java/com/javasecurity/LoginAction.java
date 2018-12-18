@@ -15,19 +15,30 @@
  */
 package com.javasecurity;
 
-import junit.framework.TestCase;
-
-import com.opensymphony.xwork2.Action;
+import com.opensymphony.xwork2.ActionSupport;
+import java.util.Date;
+import com.opensymphony.xwork2.conversion.annotations.Conversion;
+import com.opensymphony.xwork2.conversion.annotations.TypeConversion;
 
 /**
  * 
  */
-public class HelloWorldActionTest extends TestCase {
-    
-    public void testHelloWorldAction() throws Exception {
-        HelloWorldAction action = new HelloWorldAction();
-        String result = action.execute();
-        assertEquals(Action.SUCCESS, result);
+@Conversion()
+public class LoginAction extends ActionSupport {
+
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
+    private String password;
+
+    public String execute() throws Exception {
+
+        return SUCCESS;
     }
 }
-

