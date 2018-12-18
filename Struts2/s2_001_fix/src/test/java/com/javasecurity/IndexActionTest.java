@@ -15,28 +15,18 @@
  */
 package com.javasecurity;
 
-import com.opensymphony.xwork2.ActionSupport;
-import com.opensymphony.xwork2.conversion.annotations.Conversion;
+import junit.framework.TestCase;
+
+import com.opensymphony.xwork2.Action;
 
 /**
  * 
  */
-@Conversion()
-public class LoginAction extends ActionSupport {
-
-
-    public String getPassword() {
-        return password;
-    }
-
-    public void setPassword(String password) {
-        this.password = password;
-    }
-
-    private String password;
-
-    public String execute() throws Exception {
-
-        return SUCCESS;
+public class IndexActionTest extends TestCase {
+    
+    public void testIndexAction() throws Exception {
+        IndexAction action = new IndexAction();
+        String result = action.execute();
+        assertEquals(Action.SUCCESS, result);
     }
 }

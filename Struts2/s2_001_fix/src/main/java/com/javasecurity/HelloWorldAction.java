@@ -15,25 +15,29 @@
  */
 package com.javasecurity;
 
+import java.util.Date;
 import com.opensymphony.xwork2.ActionSupport;
+import com.opensymphony.xwork2.validator.annotations.Validation;
+import com.opensymphony.xwork2.validator.annotations.RequiredStringValidator;
+import com.opensymphony.xwork2.validator.annotations.RequiredFieldValidator;
 import com.opensymphony.xwork2.conversion.annotations.Conversion;
+import com.opensymphony.xwork2.conversion.annotations.TypeConversion;
 
-/**
- * 
- */
+@Validation()
 @Conversion()
-public class LoginAction extends ActionSupport {
+public class HelloWorldAction extends ActionSupport {
+
+    private String name;
 
 
-    public String getPassword() {
-        return password;
+    public String getName() {
+        return name;
     }
 
-    public void setPassword(String password) {
-        this.password = password;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    private String password;
 
     public String execute() throws Exception {
 
