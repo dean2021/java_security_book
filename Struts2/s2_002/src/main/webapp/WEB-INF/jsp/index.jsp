@@ -7,11 +7,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <body>
-
-
 	<a href="<s:url action="/hello/hello_struts2" includeParams="all" ></s:url>">你好Struts2</a>
-
-
 </body>
 </html>
 	
